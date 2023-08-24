@@ -1,0 +1,46 @@
+1. Use virtual batch norm
+2. One-sided label smoothing
+3. Try Minimax, non-saturating heuristic 
+4. Most likely will be an implicit density model
+5. keep in mind 1. beta value 2. learning rate 3. batch size
+6. try layer normalization
+
+
+Notebook Flow
+
+- Intro to GAN
+- Cifar-10 dataset
+- Approach in GAN Creation
+	- Virtual Batch Normalisation
+	- One-Sided Label Smoothing
+	- Minimax / Non-Saturating Heuristic
+	- Keep in mind
+		1. Beta Value
+		2. Learning Rate
+		3. Batch Size
+	- Conditional GANs vs Unconditional GANs
+	- Tractability and Accuracy
+	- Probability Density Estimation (PDE)
+	- Maximum Likelihood Estimation
+- Common Mistakes
+- Managing Internal Covariate Shift
+- Managing Mode Collapse
+	- Lipschitz Continuity
+
+- How do we evaluate perforamnce of GAN?
+	- Inception Score
+	- Kernel Inception Distance (KID)
+	- Frechet Inception Distance (FID)
+
+- What types of GANs are there?
+	- Baseline GAN
+	- DCGAN
+	- WGAN
+	- SN-GAN
+	- SS-GAN
+	- SAGAN
+	- GP-GAN
+	- Minibatch GAN
+
+
+- Model Improvement
