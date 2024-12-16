@@ -4,6 +4,9 @@
 
 CIFAR-100 GAN is a cutting-edge deep learning solution engineered to generate images from the CIFAR-100 dataset categories. Utilising the prowess of `TensorFlow`, this model stands as an essential resource for those enthusiastic about delving into generative adversarial networks within the realm of image generation.
 
+![](https://github.com/amidstdebug/CIFAR100-GAN/blob/main/gan.gif)
+
+
 ## Table of Contents
 
 - [Features](#features)
